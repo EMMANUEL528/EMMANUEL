@@ -20,7 +20,7 @@ a:hover{
 h1 {
   color: #CC66FF;
   font-size: 2em;
-  padding-top: 50px;
+  padding-top: 200px;
   width: 100%;
   text-align: center;
   font-weight: bold;
@@ -51,7 +51,7 @@ p {
   font-family: Calibri;
   font-size: 18px;
   margin-top:10;
-  padding:300;
+  padding:300
 
 }
 img {
