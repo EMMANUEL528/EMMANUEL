@@ -1,4 +1,9 @@
 body {
-	background: yellow;
+  background: #d7f9f5;
+  
+   background: -webkit-linear-gradient(#e8f4f3, #d4ebe1, #bfcee9);
+  
+  background: linear-gradient(#e8f4f3, #d4ebe1, #bfcee9);
+  margin: 0;
+  padding: 0;
 }
-
