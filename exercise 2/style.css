@@ -4,6 +4,26 @@ body {
    background: -webkit-linear-gradient(#e8f4f3, #d4ebe1, #bfcee9);
   
   background: linear-gradient(#e8f4f3, #d4ebe1, #bfcee9);
-  margin: 0;
+  margin: 100;
   padding: 0;
+}
+
+<!-- How to Get Rid of Mice -->
+h1 {
+  color: #FFF;
+  font-size: 2em;
+  padding-top: 100px;
+  width: 100%;
+  font-family: Georgia;
+  text-align: center;
+}
+
+<!-- Explore this Article -->
+h2 {
+  color: #FFF;
+  font-size: 22px;
+  padding-top: 100px;
+  width: 100%;
+  font-family: Arial;
+  text-align: center;
 }
