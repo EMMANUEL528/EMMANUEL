@@ -1,0 +1,51 @@
+body {
+ 
+  background: #141E30;
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(-45deg, #35577D, #141E30);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  margin: 60;
+  padding: 60;
+  color: white;
+  font-family: Aardvark Cafe;
+}
+  h1{
+  	 text-align: center;
+  	  padding-top: 50px;
+  	  font-size: 60px;
+  }
+
+  h2{
+  	 text-align: left;
+  	  padding-right: : : 60;
+  	   font-size: 30px;
+  	   margin-right:80 ;
+  }
+  h3{
+  	 text-align: center;
+  	  padding-left: : 600;
+  	   font-size: 30px;
+  }
+  h4{
+  	 text-align: right;
+  	  padding-left: : 600;
+  	   font-size: 26px;
+  }
+  h5{
+  	 text-align: right;
+  	  padding-left: : 600;
+  	   font-size: 26px;
+  }
+  h6{
+  	 text-align: center;
+  	  padding-left: : 600;
+  	   font-size: 30px;
+  }
+
+  h7{
+  	 text-align: left;
+  	  padding-left: : 600;
+  	   font-size: 30px;
+  }
+  
